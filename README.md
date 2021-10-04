@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vallabhuhemanth
 - 👀 I’m interested in Technical stuff..
-- 🌱 I’m currently learning Electrical and Computer Engineering..
+- 🌱 I’m currently learning B.Tech in Electrical and Computer Engineering..
 - 📫 How to reach me vallabhuhemanth8@gmail.com...
 
 <!---
