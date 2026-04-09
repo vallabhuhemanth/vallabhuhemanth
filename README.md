@@ -94,11 +94,13 @@
 
 <div align="center">
 
-![Hemanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vallabhuhemanth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+[![Vallabhuhemanth GitHub stats](https://github-readme-stats.vercel.app/api?username=vallabhuhemanth)](https://github.com/vallabhuhemanth/github-readme-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vallabhuhemanth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vallabhuhemanth&show_icons=true&theme=radical" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vallabhuhemanth&theme=tokyonight&hide_border=true&background=0d1117)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vallabhuhemanth&layout=compact&theme=radical" />
+
+<img src="https://streak-stats.demolab.com?user=vallabhuhemanth&theme=tokyonight&hide_border=true&background=0d1117" />
 
 </div>
 
