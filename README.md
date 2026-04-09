@@ -94,11 +94,11 @@
 
 <div align="center">
 
-![Hemanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemanthvallabhu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+![Hemanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vallabhuhemanth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthvallabhu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vallabhuhemanth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=hemanthvallabhu&theme=tokyonight&hide_border=true&background=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com?user=vallabhuhemanth&theme=tokyonight&hide_border=true&background=0d1117)
 
 </div>
 
