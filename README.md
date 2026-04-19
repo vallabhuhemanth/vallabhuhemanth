@@ -89,7 +89,6 @@
 `React Native` `Next.js` `Supabase` `AWS EC2` `JWT` `Nginx`
 
 ---
----
 
 ## 🤝 Let's Connect
 
