@@ -89,17 +89,6 @@
 `React Native` `Next.js` `Supabase` `AWS EC2` `JWT` `Nginx`
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![Vallabhuhemanth GitHub stats](https://github-readme-stats.vercel.app/api?username=vallabhuhemanth)](https://github.com/vallabhuhemanth/github-readme-stats)
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vallabhuhemanth&show_icons=true&theme=radical" />
-
-</div>
-
 ---
 
 ## 🤝 Let's Connect
