@@ -98,10 +98,6 @@
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vallabhuhemanth&show_icons=true&theme=radical" />
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vallabhuhemanth&layout=compact&theme=radical" />
-
-<img src="https://streak-stats.demolab.com?user=vallabhuhemanth&theme=tokyonight&hide_border=true&background=0d1117" />
-
 </div>
 
 ---
@@ -111,7 +107,7 @@
 <div align="center">
 
 💼 Open to **Full-Stack** and **Frontend Engineering** roles
-📍 **Telangana, IN** · Open to Relocate
+📍 **Telangana, IN** · ( Open to Relocate )
 📧 **vallabhuhemanth8@gmail.com** · 📞 +91 9154530102
 
 *"Good code is its own best documentation."*
