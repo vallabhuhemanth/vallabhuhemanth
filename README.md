@@ -26,7 +26,7 @@
 
 - 🎓 **B.Tech** in Electrical & Computer Engineering — *Amrita Vishwa Vidhyapeetham (2021–2025)*
 - 🌍 Based in **Telangana, India** · Open to Relocate
-- 🚀 Building **full-stack web & mobile apps** with React, Next.js & Node.js
+- 🚀 Building and Designing **full-stack web & mobile apps** with React, Next.js & Node.js
 - 🎨 Passionate about **component-based UI architecture** and smooth user experiences
 - ⚡ Fun fact: I optimize re-renders *and* Nginx configs
 
