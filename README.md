@@ -94,7 +94,7 @@
 
 <div align="center">
 
-💼 Open to **Full-Stack** and **Frontend Engineering** roles
+💼 Open to **Software Developer** and **Frontend Engineering** roles
 📍 **Telangana, IN** · ( Open to Relocate )
 📧 **vallabhuhemanth8@gmail.com** · 📞 +91 9154530102
 
